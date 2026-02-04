@@ -29,3 +29,17 @@ This repository contains implementations of the **U-Net architecture** for pixel
 
 ```bash
 pip install tensorflow opencv-python matplotlib tensorflow-datasets
+```
+
+---
+
+## 👨‍💻 Author
+
+**Raj Antala**
+🎓 PGDM Student in AI and Data Science  
+🏫 Adani Institute of Digital Technology Management (AIDTM)  
+📍 Gandhinagar, India  
+📧 antalaraj214@gmail.com  
+🔗 www.linkedin.com/in/antalaraj
+
+---
