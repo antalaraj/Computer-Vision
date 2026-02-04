@@ -1,4 +1,4 @@
-# Face Detection & Recognition Pipeline (Computer Vision Mini Project)
+# Face Detection & Recognition Pipeline 
 
 ## 📌 Project Overview
 This project demonstrates a complete **face detection and recognition pipeline** using classical computer vision techniques implemented in a **Jupyter Notebook (.ipynb)**.
@@ -130,7 +130,7 @@ For academic and educational purposes only.
 
 ## 👨‍💻 Author
 
-**Raj Antala**
+Raj Antala  
 🎓 PGDM Student in AI and Data Science  
 🏫 Adani Institute of Digital Technology Management (AIDTM)  
 📍 Gandhinagar, India  
