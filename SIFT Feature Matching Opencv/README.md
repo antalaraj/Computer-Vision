@@ -91,7 +91,7 @@ Only strong matches are kept using **Lowe’s Ratio Test (threshold = 0.75)**, e
 
 ## 👨‍💻 Author
 
-**Raj Antala**
+Raj Antala  
 🎓 PGDM Student in AI and Data Science  
 🏫 Adani Institute of Digital Technology Management (AIDTM)  
 📍 Gandhinagar, India  
