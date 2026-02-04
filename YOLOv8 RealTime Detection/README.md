@@ -29,3 +29,17 @@ The project is designed to take raw video footage as input and generate an annot
 
 ```bash
 pip install ultralytics opencv-python
+```
+
+---
+
+## 👨‍💻 Author
+
+**Raj Antala**
+🎓 PGDM Student in AI and Data Science  
+🏫 Adani Institute of Digital Technology Management (AIDTM)  
+📍 Gandhinagar, India  
+📧 antalaraj214@gmail.com  
+🔗 www.linkedin.com/in/antalaraj
+
+---
