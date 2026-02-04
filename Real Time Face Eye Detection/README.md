@@ -111,7 +111,7 @@ After completing this project, you understand:
 
 ## 👨‍💻 Author
 
-**Raj Antala** 
+Raj Antala  
 🎓 PGDM Student in AI and Data Science  
 🏫 Adani Institute of Digital Technology Management (AIDTM)  
 📍 Gandhinagar, India  
