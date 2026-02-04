@@ -23,7 +23,7 @@ Rather than focusing on theory only, I emphasized:
 
 ## What I Learned
 
-Through these projects, I gained practical experience in:
+Through these projects, I am continuously building practical experience in:
 
 ### Core Concepts
 - Image preprocessing (grayscale, blur, thresholding)
