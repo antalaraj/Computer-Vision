@@ -168,7 +168,7 @@ Raj Antala
 📍 Gandhinagar, India  
 📧 antalaraj214@gmail.com  
 🔗 www.linkedin.com/in/antalaraj
-s
+
 Passionate about Computer Vision and Intelligent Systems
 
 ---
