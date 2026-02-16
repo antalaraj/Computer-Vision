@@ -1,4 +1,4 @@
-# Harris & FAST Corner Detection (Computer Vision Notebook)
+# Harris & FAST Corner Detection
 
 ## 📌 Overview
 This repository contains an interactive **Jupyter Notebook** that demonstrates
