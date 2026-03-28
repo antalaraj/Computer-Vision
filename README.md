@@ -1,73 +1,146 @@
-# Computer Vision Learning Portfolio
+# 🚀 Computer Vision Learning Portfolio
 
-👨‍🎓 **Student:** Raj Antala  
-🎓 **Program:** PGDM in AI & Data Science  
-🏫 **Institute:** Adani Institute of Digital Technology Management (AIDTM)  
-📍 Gandhinagar, India  
-
----
-
-## About This Repository
-
-This repository represents my **hands-on learning journey in Computer Vision** as part of my coursework and self-practice at **AIDTM**.
-
-All projects in this repository were built during classroom labs, assignments, and personal experimentation to strengthen my practical understanding of computer vision concepts.
-
-Rather than focusing on theory only, I emphasized:
-- Real implementation  
-- Understanding algorithms visually  
-- Writing clean and reusable code  
-- Experimenting with real images and videos  
+👨‍💻 **Author:** Raj Antala
+🎓 **Program:** PGDM in AI & Data Science
+🏫 **Institute:** Adani Institute of Digital Technology Management (AIDTM)
+📍 Gandhinagar, India
 
 ---
 
-## What I Learned
+## 📌 Overview
 
-Through these projects, I am continuously building practical experience in:
+This repository showcases my **end-to-end learning journey in Computer Vision**, built through hands-on projects, academic labs, and self-driven experimentation.
 
-### Core Concepts
-- Image preprocessing (grayscale, blur, thresholding)
-- Feature detection and matching
-- Object detection and tracking
-- Face and eye detection
-- Semantic segmentation
-- CNN-based classification
+Rather than focusing only on theory, this portfolio emphasizes:
 
-### Tools & Technologies
-- Python  
-- OpenCV  
-- NumPy  
-- Matplotlib  
-- PyTorch / TensorFlow  
-- YOLOv8  
-- UNet  
+✔ Real-world problem solving
+✔ Practical implementation of algorithms
+✔ Deep understanding through visualization
+✔ Clean, modular, and scalable code
+
+Each project reflects my progress toward becoming an **AI & Machine Learning Engineer specializing in Computer Vision**.
 
 ---
 
-## Learning Approach at AIDTM
+## 🧠 Key Skills & Concepts
 
-The learning methodology at **AIDTM** focuses on:
+### 🔍 Computer Vision Fundamentals
 
-- Problem-based learning  
-- Industry-oriented projects  
-- Research mindset  
-- Building systems, not just models  
+* Image preprocessing (grayscale, thresholding, filtering)
+* Edge detection & feature extraction (Harris, SIFT)
+* Image stitching & transformations
+* Object detection and tracking
 
-Each folder in this repository reflects a **specific lab or module** covered during the Computer Vision curriculum.
+### 👁️ Detection & Recognition
+
+* Face detection pipelines
+* Eye detection systems
+* Facial recognition using CNNs
+
+### 🧩 Deep Learning in Vision
+
+* CNN-based image classification
+* Medical image analysis
+* YOLOv8 real-time object detection
+* UNet semantic segmentation
+
+### 🚗 Applied Projects
+
+* Highway congestion & speed analysis
+* Sports tracking pipeline
+* Region-based object detection
+* Real-time detection systems
 
 ---
 
-## Acknowledgment
+## 🛠️ Tech Stack
 
-I would like to thank:
-
-**Adani Institute of Digital Technology Management (AIDTM)**  
-for providing an industry-driven learning environment and strong technical foundation in AI and Data Science.
-
-I would also like to express my sincere gratitude to  
-**Prof. Chintan Patel**  
-for his guidance, mentorship, and support throughout the Computer Vision coursework.
+| Category        | Tools / Libraries   |
+| --------------- | ------------------- |
+| Programming     | Python              |
+| Computer Vision | OpenCV              |
+| Data Processing | NumPy, Pandas       |
+| Visualization   | Matplotlib          |
+| Deep Learning   | PyTorch, TensorFlow |
+| Models          | YOLOv8, UNet        |
 
 ---
 
-> “Learning Computer Vision is not about models, it's about teaching machines to see the world like humans.”
+## 📂 Repository Structure
+
+Each folder represents a **specific concept or project module**:
+
+```
+📁 Computer-Vision/
+│
+├── 📁 Basic CNN Classification
+├── 📁 Face Detection Pipeline
+├── 📁 YOLOv8 RealTime Detection
+├── 📁 UNet Semantic Segmentation
+├── 📁 SIFT Feature Matching
+├── 📁 Image Stitching
+├── 📁 Highway Analysis
+├── 📁 Facial Recognition System
+└── 📁 Recognition Tasks
+```
+
+> 📌 Every project includes code, sample inputs, and implementation logic.
+
+---
+
+## 🎯 Learning Approach
+
+At AIDTM, the focus is not just on learning concepts, but on **building real systems**.
+
+My approach includes:
+
+* 🔬 Experimentation with real datasets
+* 🧪 Testing multiple techniques for the same problem
+* 🧠 Understanding “why” behind each algorithm
+* ⚙️ Converting theory into working pipelines
+
+---
+
+## 📈 What Makes This Portfolio Strong
+
+✔ Covers **end-to-end CV pipeline (preprocessing → modeling → output)**
+✔ Includes both **classical CV + deep learning approaches**
+✔ Demonstrates **real-world applications**
+✔ Shows **consistency and depth of learning**
+
+---
+
+## 🚀 Future Improvements
+
+* Deploy models using **Flask / FastAPI**
+* Convert projects into **real-world applications**
+* Optimize models for **mobile (TensorFlow Lite / ONNX)**
+* Build a **Computer Vision mobile app (React Native)**
+
+---
+
+## 🙏 Acknowledgment
+
+I would like to express my sincere gratitude to:
+
+* **Adani Institute of Digital Technology Management (AIDTM)**
+  for providing an industry-oriented AI learning environment
+
+* **Prof. Chintan Patel**
+  for continuous guidance, mentorship, and technical support
+
+---
+
+## 📬 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/antalaraj
+* 💻 GitHub: https://github.com/antalaraj
+* 📧 Email: antalaraj214@gmail.com
+
+---
+
+## ✨ Quote
+
+> “Computer Vision is not just about detecting objects — it's about enabling machines to understand the world.”
+
+---
