@@ -1,4 +1,4 @@
-# Face Detection using Haar Cascade (Optimized)
+# Face Detection using Haar Cascade 
 
 This project implements **face detection using OpenCV's Haar Cascade classifier** with improved parameter tuning for better accuracy in real-world group images.
 
@@ -59,9 +59,11 @@ The model uses a **balanced configuration**:
 
 ## 👨‍💻 Author
 
-Raj Antala
-PGDM Student – AI & Data Science
-Adani Institute of Digital Technology Management (AIDTM)
-Gandhinagar, India
+Raj Antala  
+🎓 PGDM Student in AI and Data Science  
+🏫 Adani Institute of Digital Technology Management (AIDTM)  
+📍 Gandhinagar, India  
+📧 antalaraj214@gmail.com  
+🔗 www.linkedin.com/in/antalaraj
 
 
