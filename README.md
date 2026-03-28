@@ -106,6 +106,3 @@ for his continuous guidance, mentorship, and support throughout my Computer Visi
 If you find this repository helpful, feel free to ⭐ it and connect with me!
 
 ---
-
-* Add **project thumbnails/screenshots section** (very powerful for portfolio)
-* Or convert this into a **job-ready portfolio README (top 1% level)**
