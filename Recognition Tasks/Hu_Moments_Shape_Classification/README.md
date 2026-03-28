@@ -76,8 +76,10 @@ pip install opencv-python numpy matplotlib
 
 ## 👨‍💻 Author
 
-Raj Antala
-PGDM Student – AI & Data Science
-Adani Institute of Digital Technology Management (AIDTM)
-Gandhinagar, India
+Raj Antala  
+🎓 PGDM Student in AI and Data Science  
+🏫 Adani Institute of Digital Technology Management (AIDTM)  
+📍 Gandhinagar, India  
+📧 antalaraj214@gmail.com  
+🔗 www.linkedin.com/in/antalaraj
 
