@@ -1,9 +1,9 @@
 # 🚀 Computer Vision Learning Portfolio
 
-👨‍🎓 **Student:** Raj Antala
-🎓 **Program:** PGDM in AI & Data Science
-🏫 **Institute:** Adani Institute of Digital Technology Management (AIDTM)
-📍 Gandhinagar, India
+👨‍🎓 **Student:** Raj Antala  
+🎓 **Program:** PGDM in AI & Data Science  
+🏫 **Institute:** Adani Institute of Digital Technology Management (AIDTM)  
+📍 **Location:** Gandhinagar, India  
 
 ---
 
