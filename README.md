@@ -73,13 +73,13 @@ This repository is a direct reflection of that approach.
 
 ---
 
-## 📈 What Makes This Portfolio Strong
+## 📊 What Makes This Portfolio Strong
 
-✔ Hands-on implementation of multiple CV techniques
-✔ Covers both **classical CV + deep learning**
-✔ Includes real-world use cases
-✔ Demonstrates consistency and learning progression
-✔ Built with clean and structured code practices
+✔ Hands-on implementation of multiple CV techniques  
+✔ Covers both classical CV + deep learning  
+✔ Includes real-world use cases  
+✔ Demonstrates consistency and learning progression  
+✔ Built with clean and structured code practices  
 
 ---
 
